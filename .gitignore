@@ -1,0 +1,12 @@
+# Sanal ortam ve önbellekler (uv sync ile yeniden oluşur)
+.venv/
+.direnv/
+__pycache__/
+.ipynb_checkpoints/
+
+# İşletim sistemi ve Office geçici dosyaları
+.DS_Store
+Thumbs.db
+desktop.ini
+~$*
+.~lock.*

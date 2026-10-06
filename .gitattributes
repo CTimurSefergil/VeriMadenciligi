@@ -1,0 +1,10 @@
+# Kod ve metin dosyaları her işletim sisteminde LF satır sonuyla
+* text=auto eol=lf
+
+# Veri ve belgeler hocadan geldiği gibi, bayt bayt aynı kalır
+*.csv  -text
+*.xlsx binary
+*.xls  binary
+*.docx binary
+*.pdf  binary
+*.png  binary
